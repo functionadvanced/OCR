@@ -1,0 +1,57 @@
+# lower Greek letters
+
+\alpha
+\beta
+\gamma
+\delta
+\epsilon
+\zeta
+\eta
+\theta
+\iota
+\kappa
+\lambda
+\mu
+\nu
+\xi
+\pi
+\rho
+\sigma
+\tau
+\upsilon
+\phi
+\chi
+\psi
+\omega
+
+# upper and other Greek letters
+
+\Gamma
+\Delta
+\varepsilon
+\vartheta
+\Theta
+\Lambda
+\Xi
+\Pi
+\varrho
+\Sigma
+\Upsilon
+\varphi
+\Phi
+\Psi
+\Omega
+
+# numbers, alphabet, operators represented by a single char
+
+1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+-*/=><()[]!,.
+
+# other operators that cannot represented by a single char
+
+\cdot
+\times
+\int
+\neq
+\geq
+\leq
+\approx

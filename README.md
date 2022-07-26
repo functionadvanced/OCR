@@ -7,7 +7,7 @@
 - Use the trained model to do OCR on the captured image.
 
 ## Required software and packages
-The following instructions are tested on Windows 11, but can I believe they can be adapted to other operating systems with modest modifications.
+The following instructions are tested on Windows 11, but I believe they can be adapted to other operating systems with modest modifications.
 
 Install [Python3](https://www.python.org/), [Tex Live](https://www.tug.org/texlive/), [Ghostscript](https://www.ghostscript.com/), and [ImageMagick](https://imagemagick.org/index.php).
 Don't forget to config the environment PATH if necessary. You may want to check the installation by typing the following command in the powershell.

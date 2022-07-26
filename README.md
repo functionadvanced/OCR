@@ -14,6 +14,7 @@ Don't forget to config the environment PATH if necessary. You may want to check 
 ```powershell
 python --version
 pdflatex --version
+gswin64c --version
 convert --version
 ```
 
